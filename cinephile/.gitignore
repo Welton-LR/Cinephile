@@ -1,0 +1,34 @@
+# Dependências
+/node_modules
+/.pnp
+.pnp.js
+
+# Arquivos de build
+/build
+/dist
+
+# Arquivos de cobertura de teste
+/coverage
+
+# Arquivos de ambiente local
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Arquivos de log do npm e yarn
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Arquivos de sistema macOS
+.DS_Store
+
+# Arquivos de cache editor / IDE
+/.vscode
+/.idea
+
+# Arquivos de cache node
+.npm
+.pnp
+.pnp.js
