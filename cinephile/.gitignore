@@ -1,4 +1,8 @@
 # Dependências
+<<<<<<< HEAD
+=======
+/node_modules
+>>>>>>> cde4d736c2eaf7e9789b124c6588c91efd159940
 /.pnp
 .pnp.js
 
