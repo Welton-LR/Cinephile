@@ -11,6 +11,10 @@
     color: #fff;
   }
 
+  .header img {
+    width: 50px;
+  }
+
   .header nav {
     margin-right: 1rem;
   }
