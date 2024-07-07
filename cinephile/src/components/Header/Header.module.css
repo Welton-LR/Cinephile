@@ -1,6 +1,5 @@
 .header {
-    background-color: #000;
-    border-bottom: 7px solid #9a02d6;
+    background: linear-gradient(264deg, rgba(112,34,230,1) 0%, rgba(104,2,167,1) 100%);
     width: 100%;
     position: fixed;
     top: 0;
