@@ -4,7 +4,7 @@ import styles from "./Header.module.css";
 function Header () {
     return (
         <header className={styles.header}>
-            <img src="cinephile logo.png"></img>
+            <span>Cinephile</span>
             <nav>
                 <a href="#">Home</a>
                 <a href="#">Assistir</a>
