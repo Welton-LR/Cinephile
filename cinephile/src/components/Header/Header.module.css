@@ -6,20 +6,17 @@
     top: 0;
     display: flex;
     padding-block:  0.75rem;
-    font-size: 1.5rem;
     align-items: center;
     justify-content: space-around;
     color: #fff;
   }
 
-  .header img {
-    width: 50px;
-  }
-
+  
 .header span {
   font-size: 2rem;
 }
 .header a {
+  font-size: 1.5rem;
   text-decoration: none;
   color: #fff;
   padding-inline: 0.5rem;
