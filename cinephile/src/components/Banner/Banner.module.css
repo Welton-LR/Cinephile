@@ -1,8 +1,10 @@
-.banner{
+.banner {
     width: 100%;
-    height: 374px;
-    background-image: url('./images/banner1.png');
+    height:220px;
+    min-height: 80px;
+    background-image: url(./capa.png);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
+    margin-top: 65px;
 }

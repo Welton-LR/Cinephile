@@ -1,10 +1,10 @@
-import styles from "./Banner.module.css"
+import styles from "./Banner.module.css";
 
-function Banner (){
-    return(
-        <div clasName> = {styles.banner}
-        </div>
+function Banner() {
+    return (
+        <div className={styles.banner}></div>
     );
 }
 
 export default Banner;
+
