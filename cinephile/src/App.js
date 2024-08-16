@@ -8,7 +8,7 @@ function App() {
   return (
     <>
       <Header/>
-      <Banner image="/images/capa.png"/>
+      <Banner image="/images/bannerCinephile.png"/>
       <Container>
         <h1>Helló, Cinema!</h1>
         <Card/>
