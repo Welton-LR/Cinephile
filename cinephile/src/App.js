@@ -10,8 +10,12 @@ function App() {
       <Header/>
       <Banner image="/images/bannerCinephile.png"/>
       <Container>
-        <h1>Helló, Cinema!</h1>
-        <Card/>
+        <section className="cards">
+          <Card/>
+          <Card/>
+          <Card/>
+          <Card/>
+        </section>
       </Container>
       <Footer/>
       
