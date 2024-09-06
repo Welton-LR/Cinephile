@@ -1,10 +1,10 @@
 import styles from "./Card.module.css"
 
-function Card(){
+function Card({ id, imageUrl}){
     return(
         <section className={styles.card}>
-            <a href="https://youtu.be/5UVaA6SGRZA?si=vMBQO1FyTlZ4uzdN">
-                <img src="https://oregional.com.br/media/blog/d09a97509a40437ba30391086593ae9a.jpg" target="_blank" alt="capa"></img>
+            <a href={ `https://youtu.be/5UVaA6SGRZA?si=${id}`}target="_blank"  rel="noopener noreferrer">
+            <img src={imageUrl} alt="capa"></img> 
             </a>
         </section>
      );
