@@ -1,9 +1,7 @@
-.card {
-    display: flex;
-}
 
-
-.card img{
+.card img {
     width: 180px;
-    border-radius: 8px;
+    height: 240px; /* Define uma altura fixa */
+    object-fit: cover; /* Redimensiona a imagem para cobrir toda a área, cortando o excesso se necessário */
+    border-radius: 10px;
 }
