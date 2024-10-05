@@ -1,0 +1,49 @@
+[
+    {
+        "id": "https://youtu.be/d1yNc9skssk?si=uhmGQ-_Iygbitwlw",
+        "title": "Guardiões da Galaxia",
+        "imageUrl": "https://oregional.com.br/media/blog/d09a97509a40437ba30391086593ae9a.jpg",
+        "category": "Sci-Fi"
+        
+    },
+    {
+        "id": "https://youtu.be/NmTPDA15lPA?si=VPIuFVKhc92pg05T",
+        "title": "Planeta dos Macacos O Reinado",
+        "imageUrl": "https://cinepop.com.br/wp-content/uploads/2024/02/planetadosmacacos_2.jpg",
+        "category": "Sci-Fi"
+        
+    },
+    {
+        "id": "https://youtu.be/fsr7lgD7nZE?si=Q77446FqXklG6FE7",
+        "title": "Observadores",
+        "imageUrl": "https://cinemacomcritica.com.br/wp-content/uploads/2024/06/zBjRWR2dl7S1OLd9YBXNQDy2cO9-scaled.jpg",
+        "category": "Terror"
+       
+    },
+    {
+        "id": "https://youtu.be/dnBpZuSUISQ?si=mybunhnpzwiGTDc-",
+        "title": "Duna",
+        "imageUrl": "https://img.elo7.com.br/product/685x685/3E882A2/big-poster-filme-duna-tamanho-90x60-cm-duna.jpg",
+        "category": "Sci-Fi"
+       
+    },
+    {
+        "id": "https://youtu.be/fb5ELWi-ekk?si=VeMPcHnNz9rU0sBP",
+        "title": "Jurassic World Dominion",
+        "imageUrl": "https://www.universalpics.com.br/tl_files/content/movies/jurassic_world_dominion/poster/01.jpg",
+        "category": "Sci-Fi"
+        
+    },
+    {
+        "id": "https://youtu.be/wehEW7w1wRs?si=SoA6tLjAlTg-Ogw7",
+        "title": "O Menino e a Garça",
+        "imageUrl": "https://image.tmdb.org/t/p/original/sLo0lyBCEntwdFFxcmf3K5l4qJf.jpg",
+        "category": "Animation"
+    },
+    {
+        "id": "https://youtu.be/VvSrHIX5a-0?si=z1AGx1eYiigZ28K0",
+        "title": "Godzilla Minus One",
+        "imageUrl": "https://a.storyblok.com/f/178900/2895x4096/c0faae98d6/godzilla_poster.jpg/m/filters:quality(95)format(webp)",
+        "category": "Sci-Fi"
+    }
+]
