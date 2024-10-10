@@ -43,7 +43,43 @@
     {
         "id": "https://youtu.be/VvSrHIX5a-0?si=z1AGx1eYiigZ28K0",
         "title": "Godzilla Minus One",
-        "imageUrl": "https://a.storyblok.com/f/178900/2895x4096/c0faae98d6/godzilla_poster.jpg/m/filters:quality(95)format(webp)",
+        "imageUrl": "https://mir-s3-cdn-cf.behance.net/project_modules/hd/c4b6b5188268903.65994ef310474.jpg",
         "category": "Sci-Fi"
+    },
+    {
+        "id": "https://youtu.be/otutSrxYpa4?si=dgbypztcwtWJRk_M",
+        "title": "Stranger Things",
+        "imageUrl": "https://i0.statig.com.br/bancodeimagens/41/lg/5m/41lg5mhcckglmzjtxhavjmyeb.jpg",
+        "category": "Terror"  
+    },
+    {
+        "id": "https://youtu.be/Oe5Y4uPVWoo?si=ml1vxZYmI9JWmyLf",
+        "title": "IT A Coisa 2",
+        "imageUrl": "https://images.justwatch.com/poster/157683828/s718/it-capitulo-2.jpg",
+        "category": "Terror"  
+    },
+    {
+        "id": "https://youtu.be/WDpipB4yehk?si=a2L1scwP5lGsvv2-",
+        "title": "O Iluminado",
+        "imageUrl": "https://holyffilms.com/wp-content/uploads/2019/09/TS_P1-692x1024.jpg",
+        "category": "Terror"  
+    },
+    {
+        "id": "https://youtu.be/sLk94T-hS78?si=ou78gw3_SXhV85yZ",
+        "title": "Gato de Botas 2",
+        "imageUrl": "https://br.web.img2.acsta.net/c_310_420/pictures/22/12/27/14/37/5994557.jpg",
+        "category": "Animation"  
+    },
+    {
+        "id": "https://youtu.be/_4is7I_ZxTg?si=VNPhoCUkchD9hjON",
+        "title": "Homem Ranha Atrvés do Aranhaverso 2",
+        "imageUrl": "https://disneyplusbrasil.com.br/wp-content/uploads/2021/02/Homem-Aranha-no-Aranhaverso-2-Poster-683x1024.jpg",
+        "category": "Animation"  
+    },
+    {
+        "id": "https://youtu.be/pSxooe9BHgI?si=kEL8G8CoonSituc-",
+        "title": "Pinocchio Guillermo del Toro",
+        "imageUrl": "https://br.web.img3.acsta.net/pictures/22/07/27/15/18/5452852.jpg",
+        "category": "Animation"  
     }
 ]
