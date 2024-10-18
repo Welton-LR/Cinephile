@@ -4,4 +4,10 @@
     height: 240px; /* Define uma altura fixa */
     object-fit: cover; /* Redimensiona a imagem para cobrir toda a área, cortando o excesso se necessário */
     border-radius: 10px;
+    transition: box-shadow 0.3s ease; /* Transição suave */
+
 }
+
+img:hover {
+    box-shadow: 0 0 7px 4px rgb(160, 33, 245); /* Adiciona uma sombra ao redor da imagem */
+  }
