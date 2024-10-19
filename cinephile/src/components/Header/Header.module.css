@@ -11,8 +11,9 @@
   }
 
   
-.header span {
-  font-size: 2rem;
+.header span img {
+  width: 170px;
+  box-shadow: none;
   
 }
 .header a {
