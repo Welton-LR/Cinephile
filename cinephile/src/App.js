@@ -12,6 +12,11 @@ const categories = [
   "Animation"
 ]
 
+/* A função filterCategory recebe um índice (id) e retorna todos
+os vídeos que pertencem à categoria correspondente. Ela usa o método
+filter para selecionar vídeos que têm a mesma categoria do item categories[id].
+Por exemplo, quando id for 0, filtrará os vídeos da categoria "Sci-Fi" */
+
 function filterCategory(id){
   return(
     videos.filter(video => video.category === categories[id])
@@ -24,33 +29,17 @@ function App() {
       <Header/>
       <Banner image="/images/bannerCinephile.png"/>
       <Container>
-
-        {/*Aqui eu pego a minha variável "videos" e faço um mapeamento de cada elemento contido nela.
-                Cada elemento será chamado de "video" e para cada video, será retornada uma função que chama 
-                o componente Card. O Card cria uma card para cada elemento em "videos" */}
-
-        <Category category = "Sci-Fi">
-              {
-                  filterCategory(0).map((video =>{
-                     return <Card id={video.id} key={video.id} imageUrl={video.imageUrl}/>
-                   }))
-              }
-        </Category>
-        <Category category = "Terror">
-              {
-                   filterCategory(1).map((video =>{
-                     return <Card id={video.id} key={video.id} imageUrl={video.imageUrl}/>
-                   }))
-              }
-        </Category>
-        <Category category = "Animation">
-              {
-                   filterCategory(2).map((video =>{
-                     return <Card id={video.id} key={video.id} imageUrl={video.imageUrl}/>
-                   }))
-              }
-        </Category>
-
+        {/*usamos categories.map() para criar um componente <Category> para cada categoria*/}
+        {
+          categories.map((category, index)=> 
+            <Category category = {category} key ={index}>
+          {
+              filterCategory(index).map((video =>{
+                 return <Card id={video.id} key={video.id} imageUrl={video.imageUrl}/>
+               }))
+          }
+            </Category>)
+        }
       </Container>
       <Footer/>
       
